@@ -1,6 +1,5 @@
 '''
 Xinyi Huang
-MATH 323
 
 '''
 
